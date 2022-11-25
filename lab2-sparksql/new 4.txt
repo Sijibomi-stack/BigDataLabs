@@ -1,0 +1,10 @@
+
+Reference
+1. https://en.wikipedia.org/wiki/Sports_analytics
+2. ????
+3. Bernardo, J. M. and A. F. Smith. 2009. Bayesian Theory. Volume 405, England: John Wiley & Sons.
+4. https://www.degruyter.com/document/doi/10.1515/jqas-2018-0106/html
+5. Rosenbaum, D. 2004. “Measuring How NBA Players Help Their Teams Win.” (
+6. https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7
+7. https://medium.com/towards-data-science/mahalonobis-distance-and-outlier-detection-in-r-cb9c37576d7d
+8. https://towardsdatascience.com/gibbs-sampling-8e4844560ae5
